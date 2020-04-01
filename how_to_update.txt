@@ -1,0 +1,12 @@
+LIEN DU SITE	
+https://username.github.io/foldername
+https://philippe-deiana.github.io/my_web_site/#/
+
+ouvrir github bash dans le fichier Philippe-Deiana.github.io/
+
+$ cd Philippe-Deiana.github.io/
+
+$ git add --all
+
+$ git commit -m "ecrire un message"
+$ git push -u origin master
