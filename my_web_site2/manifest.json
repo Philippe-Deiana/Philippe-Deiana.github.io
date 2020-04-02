@@ -1,6 +1,6 @@
 {
-    "name": "flutterweb",
-    "short_name": "flutterweb",
+    "name": "my_web_site",
+    "short_name": "my_web_site",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
